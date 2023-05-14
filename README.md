@@ -1,6 +1,8 @@
 # INVT_GD20_SimpleBackupRestoreTool
 Simple Java tool for backing up and restoring parameters from INVT GD20 VFDs.
 
+WARNING THIS IS A BETA TOOL, use at your own risk.
+
 This tool is intended for technicians who need to maintain such VFDs. The tool is able to backup and restore parameters through the RS485 interface. It is a command-line interface (CLI) tool that receives parameters from the command line in order to perform a specified action.
 
 For example, to back up an inverter, the user needs to supply the following parameters:
